@@ -1,0 +1,24 @@
+# User Management System
+
+This project provides HTML templates for user management, including login, registration, and profile pages. It uses Bootstrap for styling and custom CSS for additional styling. JavaScript is used for form validation and interactivity.
+
+## Project Structure
+
+- `login.html`: Template for user login.
+- `register.html`: Template for user registration.
+- `profile.html`: Template for user profile.
+- `styles.css`: Custom CSS file for styling.
+- `scripts.js`: JavaScript file for form validation and interactivity.
+
+## How to Use
+
+1. Clone the repository.
+2. Open any of the `.html` files in a web browser.
+3. Ensure your browser allows running JavaScript.
+
+## Features
+
+- Email and password validation.
+- Password confirmation for registration.
+- Error handling and feedback.
+- Responsive design for mobile and desktop.

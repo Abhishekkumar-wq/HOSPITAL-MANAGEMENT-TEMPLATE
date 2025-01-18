@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.card-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.invalid-feedback {
+    display: none;
+}
+
+input:invalid {
+    border-color: red;
+}
+
+input:invalid + .invalid-feedback {
+    display: block;
+}
+
+input:valid {
+    border-color: green;
+}
